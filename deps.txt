@@ -2,7 +2,6 @@ github.com/RangelReale/osin
 github.com/aliyun/aliyun-oss-go-sdk/oss
 github.com/argcv/sigr
 github.com/argcv/stork
-github.com/argcv/webeh
 github.com/boltdb/bolt
 github.com/chrislusf/glow
 github.com/davecgh/go-spew/spew
